@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "A J Hospital",
+      "patientCount": 26,
+      "location": "Trivandrum"
+    },
+    {
+      "id": 5,
+      "name": "gokulam hospital",
+      "patientCount": 54,
+      "location": "Kochi"
+    },
+    {
+      "id": 6,
+      "name": "NIMS hospital",
+      "patientCount": 50,
+      "location": "Kochi"
+    },
+    {
+      "name": "",
+      "patientCount": 300,
+      "location": "New York",
+      "id": 7
+    }
+  ]
